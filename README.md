@@ -1,4 +1,4 @@
-# Rapberry_gpio
+# Raspberry_gpio
 Script to control and map Raspberry PI GPIO pins via a bash shell script
 
 u can use one of the following options:
